@@ -1,11 +1,11 @@
-# pacman
-New Fb Cloning Commands PACMAN-Bolt
+# yourdad
+New Fb Cloning Commands yourdad-rafid
 >>Features:
->>Friendlist cloning
->>Target bruteforce
->>Pakistan , india ,usa passlist included
+>>Friendlist cloning 
+>>Target bruteforce.
+>>Pakistan , India ,USA passlist included
 
->>>USE OLD VERISON OF TERMUX IF YOU FACE ANY LOGIN PROBLEM
+>>>USE OLD VERISON TERMUX TO GET BETTER RESULTS
 
 apt update
 
@@ -15,8 +15,10 @@ apt install python python2 git -y
 
 pip2 install requests mechanize
 
-git https://github.com/faizanwahla/pacman.git
+git https://github.com/muhammadrafid/yourdad
 
-cd pacman
+cd yourdad
 
-python2 bolt
+ls
+
+python2 rafid
